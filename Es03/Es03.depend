@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573851090 source:c:\users\serra\desktop\politecnico\algoritmi-programmazione\lab\lab05\es03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
